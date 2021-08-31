@@ -18,7 +18,11 @@ The timing will start. In this program there will be three different timings.
 Your browser will open before two minutes from the time you set. And all processes will be
 done. And the message will reach the target in the perfect scheduled timing
 
+* Make sure you run it as administrator
+
 # Muhil Raj
+
+![favicon](https://user-images.githubusercontent.com/55051533/131548118-e2ad2721-0284-4e79-8b42-ebcb00944ece.png)
 
 Wi-Scheduler is developed by me using python is you want to install the application link the link below or else download it directly fro GIT
 
